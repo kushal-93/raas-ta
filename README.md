@@ -1,1 +1,1 @@
-A reconciliation engine with user-defined compute and merge configurations.
+A reconciliation engine to support config and forget mentality.
